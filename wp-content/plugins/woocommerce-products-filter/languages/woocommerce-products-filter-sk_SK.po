@@ -1,0 +1,2871 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: sk\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "(Statistic collected from: %s %d)"
+msgstr "(Štatistika zhromaždená z: %s %d)"
+
+msgid "(zip)"
+msgstr "(PSČ)"
+
+msgid "+SKU"
+msgstr "+ SKU"
+
+msgid "12 hours recommended"
+msgstr "Odporúča sa 12 hodín"
+
+msgid ""
+"Note for admin: Create folder for custom extensions in wp-content folder: tab "
+"Advanced -> Options -> Custom extensions folder"
+msgstr ""
+"Poznámka pre správcu: Vytvorte priečinok pre vlastné rozšírenia v priečinku "
+"wp-content: karta Rozšírené -> Možnosti -> Priečinok Vlastné rozšírenia"
+
+msgid "ver.: %s"
+msgstr "ver.: %s"
+
+msgid "AND"
+msgstr "A"
+
+msgid ""
+"AND or OR: if to select AND and on the site front select 2 terms - will be "
+"found products which contains both terms on the same time."
+msgstr ""
+"A alebo ALEBO: ak zvolíte AND a na prednej strane stránky zvolíte 2 výrazy - "
+"nájdu sa produkty, ktoré obsahujú oba výrazy súčasne."
+
+msgid "ASC"
+msgstr "ASC"
+
+msgid ""
+"ATTENTION! Your version of the woocommerce plugin is too obsolete. There is "
+"no warranty for working with WOOF!!"
+msgstr ""
+"POZOR! Vaša verzia doplnku woocommerce je príliš zastaraná. Na prácu s WOOF "
+"sa nevzťahuje žiadna záruka!!"
+
+msgid ""
+"Ability to search by the description of the any variation in the variable "
+"product"
+msgstr ""
+"Schopnosť vyhľadávať podľa popisu ľubovoľnej variácie variabilného produktu"
+
+msgid "About extension"
+msgstr "O predĺžení"
+
+msgid "Action"
+msgstr "akčná"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Akcia zlyhala. Obnovte stránku a skúste to znova."
+
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "Aktivuje možnosť vyhľadávania podľa SKU z rovnakého textového vstupu"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Aktualizované pre WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "pridať"
+
+msgid "Add Custom key by hands"
+msgstr "Pridať vlastný kľúč ručne"
+
+msgid "Add section"
+msgstr "Pridať sekciu"
+
+msgid "Add this query"
+msgstr "Pridajte tento dopyt"
+
+msgid "Additional Quick-search Filter options"
+msgstr "Ďalšie možnosti filtra rýchleho vyhľadávania"
+
+msgid "Additional search data for text search"
+msgstr "Ďalšie vyhľadávacie údaje pre textové vyhľadávanie"
+
+msgid ""
+"Additional search data: which taxonomies terms titles should be included into "
+"TEXT search data file. So, your customers will be able to find with TEXT "
+"search input also products using your taxonomies terms titles! After "
+"selecting new taxonomies here do not forget press Save and then Reassemble "
+"data file!"
+msgstr ""
+"Ďalšie údaje vyhľadávania: názvy výrazov taxonómie by mali byť zahrnuté do "
+"súboru s údajmi vyhľadávania TEXT. Takže vaši zákazníci budú môcť pomocou "
+"textového vyhľadávania nájsť aj produkty, ktoré používajú vaše názvy "
+"taxonómií! Po výbere nových taxonómií tu nezabudnite stlačiť Uložiť a potom "
+"Znova zostaviť dátový súbor!"
+
+msgid "Additional text before"
+msgstr "Dodatočný text predtým"
+
+msgid "Adv"
+msgstr "adv"
+
+msgid "Advanced"
+msgstr "pokročilý"
+
+msgid ""
+"After activation of Turbo Mode firstly what should be done is generating of "
+"the data file, see button below. And also do not forget to set cron mode."
+msgstr ""
+"Po aktivácii Turbo režimu je potrebné najskôr vygenerovať dátový súbor, pozri "
+"tlačidlo nižšie. A tiež nezabudnite nastaviť režim cron."
+
+msgid "After installing all settings for statistics assembling - enable it here"
+msgstr ""
+"Po nainštalovaní všetkých nastavení pre zostavovanie štatistík - povoľte ich "
+"tu"
+
+msgid "All"
+msgstr "Všetko"
+
+msgid ""
+"Allows to wrap filter-elements into [close/open]-sections and make filter "
+"form more compact."
+msgstr ""
+"Umožňuje zabaliť filtračné prvky do sekcií [zatvoriť/otvoriť] a vytvoriť "
+"kompaktnejší tvar filtra."
+
+msgid "Any"
+msgstr "Každý"
+
+msgid "Any image for closed html-items block 20x20"
+msgstr "Akýkoľvek obrázok pre uzavretý blok html položiek 20x20"
+
+msgid "Any image for opened html-items block 20x20"
+msgstr "Akýkoľvek obrázok pre otvorený blok html položiek 20x20"
+
+msgid "Any notes for customer."
+msgstr "Akékoľvek poznámky pre zákazníka."
+
+msgid ""
+"Any notes for customer. Example: use comma for searching by more than 1 SKU!"
+msgstr ""
+"Akékoľvek poznámky pre zákazníka. Príklad: použite čiarku na vyhľadávanie "
+"podľa viac ako 1 SKU!"
+
+msgid "Any text notes for customer under subscription form."
+msgstr "Akékoľvek textové poznámky pre zákazníka vo formulári predplatného."
+
+msgid ""
+"Any text notes for customer. Example: Sorry! This product is not suitable for "
+"your search %title%."
+msgstr ""
+"Akékoľvek textové poznámky pre zákazníka. Príklad: Prepáčte! Tento produkt "
+"nie je vhodný pre vaše vyhľadávanie %title%."
+
+msgid ""
+"Any text notes for customer. Example: This product matches your search: %title"
+"%."
+msgstr ""
+"Akékoľvek textové poznámky pre zákazníka. Príklad: Tento produkt zodpovedá "
+"vášmu vyhľadávaniu: %title%."
+
+msgid "Are you sure?"
+msgstr "Si si istý?"
+
+msgid "As checkbox"
+msgstr "Ako začiarkavacie políčko"
+
+msgid "As drop-down"
+msgstr "Ako rozbaľovacia ponuka"
+
+msgid "As ion range-slider"
+msgstr "Ako posúvač rozsahu iónov"
+
+msgid "As radio"
+msgstr "Ako rádio"
+
+msgid "As radio button"
+msgstr "Ako prepínač"
+
+msgid "As textinputs"
+msgstr "Ako textové vstupy"
+
+msgid "As woo range-slider"
+msgstr "Ako woo rozsah-slider"
+
+msgid ""
+"Attention! This is the last email. If you want to continue get such emails -> "
+"Go by next link and subscribe again"
+msgstr ""
+"Pozor! Toto je posledný email. Ak chcete naďalej dostávať takéto e-maily -> "
+"Prejdite na ďalší odkaz a znova sa prihláste na odber"
+
+msgid "Author:"
+msgstr "autor:"
+
+msgid "Auto filter close/open image"
+msgstr "Automatický filter zavrieť/otvoriť obrázok"
+
+msgid "Auto filter close/open text"
+msgstr "Automatický filter zatvoriť/otvoriť text"
+
+msgid "Autocomplete"
+msgstr "automatické doplňovanie"
+
+msgid "Autocomplete products count"
+msgstr "Počet produktov automatického dopĺňania"
+
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "Automatické dopĺňanie relevantných variantov v textovom vstupe SKU"
+
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "Automatické dopĺňanie relevantných variantov v textovom vstupe by_text"
+
+msgid "Autosubmit"
+msgstr "Automatické odoslanie"
+
+msgid "Behavior"
+msgstr "Správanie"
+
+msgid "Behavior as radio button"
+msgstr "Správanie ako prepínač"
+
+msgid "Behavior of how the filter sections will open."
+msgstr "Správanie spôsobu otvárania sekcií filtra."
+
+msgid "Behavior of reset button"
+msgstr "Správanie resetovacieho tlačidla"
+
+msgid ""
+"Boost speed of products filtering. This mode allows to avoid generating big "
+"MySQL queries while products filtering on the site front what makes less "
+"loading to the server and getting filtering results more quick"
+msgstr ""
+"Zvýšte rýchlosť filtrovania produktov. Tento režim umožňuje vyhnúť sa "
+"generovaniu veľkých dopytov MySQL, zatiaľ čo produkty filtrujú na prednej "
+"strane stránky, čo znižuje zaťaženie servera a rýchlejšie získavanie "
+"výsledkov filtrovania"
+
+msgid "Both"
+msgstr "Oba"
+
+msgid "Bottom"
+msgstr "dno"
+
+msgid "Button as"
+msgstr "Tlačidlo ako"
+
+msgid "Button image size"
+msgstr "Veľkosť obrázka tlačidla"
+
+msgid "Button label"
+msgstr "Štítok gombíka"
+
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "Odsadenie tlačidla (px) zhora alebo zľava od okraja okna"
+
+msgid "By author"
+msgstr "Podľa autora"
+
+msgid "By date"
+msgstr "Podľa dátumu"
+
+msgid "By emails count"
+msgstr "Podľa počtu e-mailov"
+
+msgid "By rating"
+msgstr "Podľa hodnotenia"
+
+msgid "By rating drop-down"
+msgstr "Podľa rozbaľovacej ponuky hodnotenia"
+
+msgid "By text"
+msgstr "Textom"
+
+msgid ""
+"By this button you can set settings and generate shortcode for your needs for "
+"on single pages. After using, if you do not want the settings became globals, "
+"refresh the page to avoid settings saving!"
+msgstr ""
+"Pomocou tohto tlačidla môžete nastaviť nastavenia a vygenerovať krátky kód "
+"pre vaše potreby na jednotlivých stránkach. Po použití, ak nechcete, aby sa "
+"nastavenia stali globálnymi, obnovte stránku, aby ste zabránili ukladaniu "
+"nastavení!"
+
+msgid "Cache dynamic recount number for each item in filter"
+msgstr "Uložiť číslo dynamického prepočítania pre každú položku vo filtri"
+
+msgid "Cache folder"
+msgstr "Priečinok vyrovnávacej pamäte"
+
+msgid ""
+"Cache pages, allow to make a lot of search queries on your site without high "
+"load on your server!"
+msgstr ""
+"Cache stránky, umožňujú vykonávať veľa vyhľadávacích dopytov na vašom webe "
+"bez vysokého zaťaženia vášho servera!"
+
+msgid "Cache terms"
+msgstr "Podmienky vyrovnávacej pamäte"
+
+msgid "Calculate Statistics"
+msgstr "Vypočítať štatistiku"
+
+msgid "Cheatin’ huh?"
+msgstr "Podvádzať, čo?"
+
+msgid "Check DB connection"
+msgstr "Skontrolujte pripojenie DB"
+
+msgid "Check search logic AND/OR"
+msgstr "Skontrolujte logiku vyhľadávania A/ALEBO"
+
+msgid "Checkbox"
+msgstr "začiarkavacie políčko"
+
+msgid "Choose an extension zip"
+msgstr "Vyberte si predlžovací zips"
+
+msgid "Clear"
+msgstr "Vymazať"
+
+msgid "Clear All"
+msgstr "Vymazať všetko"
+
+msgid "Clear text input"
+msgstr "Jasné zadávanie textu"
+
+msgid "Click"
+msgstr "kliknite"
+
+msgid "Code"
+msgstr "kód"
+
+msgid "Color"
+msgstr "Farba"
+
+msgid "Conditions logic"
+msgstr "Logika podmienok"
+
+msgid "Container max-height (px). 0 means no max-height."
+msgstr "Maximálna výška kontajnera (px). 0 znamená žiadnu maximálnu výšku."
+
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Vytvoriť novú sekciu. Nezabudnite kliknúť na tlačidlo uložiť."
+
+msgid "Create section"
+msgstr "Vytvoriť sekciu"
+
+msgid "Creating"
+msgstr "Vytvorenie"
+
+msgid "Cron type"
+msgstr "Typ Cron"
+
+msgid ""
+"Css class of ordering dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"Css trieda objednávkového rozbaľovacieho kontajnera. Je potrebný pre "
+"kompatibilitu ajax s témami wp. Ak nerozumiete, nechajte pole prázdne."
+
+msgid ""
+"Css class of per page dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"Trieda CSS rozbaľovacieho kontajnera na stránku. Je potrebný pre "
+"kompatibilitu ajax s témami wp. Ak nerozumiete, nechajte pole prázdne."
+
+msgid ""
+"Css class of result-count container. Is needed for ajax compatibility with wp "
+"themes. If you do not understand, leave it blank."
+msgstr ""
+"Css trieda kontajnera na počítanie výsledkov. Je potrebný pre kompatibilitu "
+"ajax s témami wp. Ak nerozumiete, nechajte pole prázdne."
+
+msgid "Custom CSS code"
+msgstr "Vlastný kód CSS"
+
+msgid "Custom extensions folder"
+msgstr "Vlastný priečinok rozšírení"
+
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Cesta k priečinku vlastných rozšírení vzhľadom na: %s"
+
+msgid "Custom extensions installation"
+msgstr "Inštalácia vlastných rozšírení"
+
+msgid "Custom front css styles file link"
+msgstr "Odkaz na vlastný predný súbor štýlov css"
+
+msgid "Custom text of the button"
+msgstr "Vlastný text tlačidla"
+
+msgid "DB Name"
+msgstr "Názov DB"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "Data for default filter"
+msgstr "Údaje pre predvolený filter"
+
+msgid "Database not connected! ERROR!"
+msgstr "Databáza nie je pripojená! CHYBA!"
+
+msgid "Database not connected! ERROR:"
+msgstr "Databáza nie je pripojená! CHYBA:"
+
+msgid "Database successfully connected!!!"
+msgstr "Databáza úspešne pripojená!!!"
+
+msgid "Database successfully updated!!!"
+msgstr "Databáza úspešne aktualizovaná!!!"
+
+msgid "Datepicker"
+msgstr "Dátumovka"
+
+msgid ""
+"Dear [DISPLAY_NAME], we increased the range of our products. Number of new "
+"products: [PRODUCT_COUNT]"
+msgstr ""
+"Vážený [DISPLAY_NAME], rozšírili sme sortiment našich produktov. Počet nových "
+"produktov: [PRODUCT_COUNT]"
+
+msgid "Default"
+msgstr "štandardné"
+
+msgid "Default - mm/dd/yy"
+msgstr "Predvolené - mm/dd/rr"
+
+msgid "Default extensions"
+msgstr "Predvolené rozšírenia"
+
+msgid "Delete"
+msgstr "vymazať"
+
+msgid "Demo sites"
+msgstr "Ukážkové stránky"
+
+msgid "Design"
+msgstr "dizajn"
+
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "Priame odkazy na príspevky v návrhu automatického dopĺňania"
+
+msgid "Direction of terms sorted inside of filter block"
+msgstr "Smer výrazov zoradených vo vnútri bloku filtra"
+
+msgid "Disable swoof influence"
+msgstr "Zakázať vplyv swoof"
+
+msgid "Disabled"
+msgstr "invalidný"
+
+msgid "Display items in a row"
+msgstr "Zobraziť položky v riadku"
+
+msgid "Display message if current product is suitable for saved search"
+msgstr "Zobrazte správu, ak je aktuálny produkt vhodný na uložené vyhľadávanie"
+
+msgid "Documentation"
+msgstr "dokumentácia"
+
+msgid "Drop-down"
+msgstr "Rozbaľovacia ponuka"
+
+msgid "Drop-down OR radio"
+msgstr "Rozbaľovacie ALEBO rádio"
+
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Rozbaľovací zoznam ALEBO rozsahy filtrov cien rádií"
+
+msgid "Drop-down price filter first option text"
+msgstr "Text prvej možnosti filtra rozbaľovacej ponuky"
+
+msgid "Drop-down price filter text"
+msgstr "Text rozbaľovacieho cenového filtra"
+
+msgid "Drop-down to filter ptoducts by rating"
+msgstr "Rozbaľovacia ponuka na filtrovanie ptoduktov podľa hodnotenia"
+
+msgid ""
+"Duplicate, clone, backup, move and transfer an entire site from one location "
+"to another."
+msgstr ""
+"Duplikujte, klonujte, zálohujte, presúvajte a prenášajte celú lokalitu z "
+"jedného miesta na druhé."
+
+msgid "Dynamic recount"
+msgstr "Dynamické prepočítavanie"
+
+msgid "Dynamic recount for current search form"
+msgstr "Dynamické prepočítavanie pre aktuálny vyhľadávací formulár"
+
+msgid "EXACT"
+msgstr "PRESNÉ"
+
+msgid "Emails count"
+msgstr "E-maily sa počítajú"
+
+msgid "Enable turbo mode"
+msgstr "Povoliť režim turbo"
+
+msgid "Enabled"
+msgstr "povolené"
+
+msgid ""
+"Enter any random text in the field and use it in the external cron with link "
+"like: https://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+msgstr ""
+"Zadajte ľubovoľný náhodný text do poľa a použite ho v externom crone s "
+"odkazom ako: https://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+
+msgid ""
+"Enter count of terms which should be visible to make all other collapsible. "
+"\"Show more\" button will be appeared. This feature is works with: radio, "
+"checkboxes, labels, colors."
+msgstr ""
+"Zadajte počet výrazov, ktoré by mali byť viditeľné, aby sa všetky ostatné "
+"dali zbaliť. Zobrazí sa tlačidlo \"Zobraziť viac\". Táto funkcia funguje s: "
+"rádiom, zaškrtávacími políčkami, štítkami, farbami."
+
+msgid "Enter tooltip text if necessary"
+msgstr "V prípade potreby zadajte text popisu"
+
+msgid "Error! Please read documents"
+msgstr "Chyba! Prečítajte si dokumenty"
+
+msgid "Europe - dd-mm-yy"
+msgstr "Európa - dd-mm-rr"
+
+msgid "Exact match"
+msgstr "Presná zhoda"
+
+msgid "Exact value"
+msgstr "Presná hodnota"
+
+msgid "Example"
+msgstr "Príklad"
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Príklad: 0-50,51-100,101-i. Kde \"i\" je nekonečno."
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity. Max price is %s."
+msgstr ""
+"Príklad: 0-50,51-100,101-i. Kde \"i\" je nekonečno. Maximálna cena je %s."
+
+msgid "Example: 1^100"
+msgstr "Príklad: 1^100"
+
+msgid "Exclude On backorder"
+msgstr "Vylúčiť pri nedoobjednaní"
+
+msgid "Exclude on backorder"
+msgstr "Vylúčiť pri nedoobjednaní"
+
+msgid "Exclude products on backorder"
+msgstr "Vylúčiť produkty v nevybavenej objednávke"
+
+msgid "Exclude: On backorder"
+msgstr "Vylúčiť: Pri nedoobjednaní"
+
+msgid "Export data"
+msgstr "Export údajov"
+
+msgid "Export/Import"
+msgstr "Export Import"
+
+msgid ""
+"Exports your database, does a find and replace on URLs and file paths, then "
+"allows you to save it to your computer."
+msgstr ""
+"Exportuje vašu databázu, vyhľadá a nahradí adresy URL a cesty k súborom a "
+"potom vám umožní uložiť ju do počítača."
+
+msgid "Ext-Applications options"
+msgstr "Možnosti rozšírených aplikácií"
+
+msgid "Extensions"
+msgstr "Rozšírenie"
+
+msgid "External Cron"
+msgstr "Externý Cron"
+
+msgid ""
+"External cron is more predictable with time of execution, but additional "
+"knowledge how to set it correctly is required"
+msgstr ""
+"Externý cron je predvídateľnejší s časom vykonania, ale sú potrebné ďalšie "
+"znalosti, ako ho správne nastaviť"
+
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Externý cron kľúč (odporúča sa ako flexibilný pre rozvrh)"
+
+msgid "FAQ"
+msgstr "NAJČASTEJŠIE OTÁZKY"
+
+msgid "Featured checkbox"
+msgstr "Začiarkavacie políčko Odporúčané"
+
+msgid "Featured product"
+msgstr "Najlepší produkt"
+
+msgid "File updated!!!"
+msgstr "Súbor bol aktualizovaný!!!"
+
+msgid "Filter"
+msgstr "filter"
+
+msgid "Filter button text"
+msgstr "Text tlačidla filtra"
+
+msgid "Filter button text in the search form"
+msgstr "Filtrovať text tlačidla vo formulári vyhľadávania"
+
+msgid "Filter by rating"
+msgstr "Filtrovať podľa hodnotenia"
+
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+"Prvá možnosť rozbaľovacieho zoznamu zástupný text ALEBO názov pre "
+"začiarkavacie políčka"
+
+msgid "Flat dark (1column)"
+msgstr "Plochá tmavá (1 stĺpec)"
+
+msgid "Flat dark (2columns)"
+msgstr "Plochá tmavá (2 stĺpce)"
+
+msgid "Flat dark (3columns)"
+msgstr "Plochá tma (3 stĺpce)"
+
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Plochá tmavá (4 stĺpce) bez bočného panela*"
+
+msgid "Flat grey (1column)"
+msgstr "Plochá šedá (1 stĺpec)"
+
+msgid "Flat grey (2columns)"
+msgstr "Plochá šedá (2 stĺpce)"
+
+msgid "Flat grey (3columns)"
+msgstr "Plochá šedá (3 stĺpce)"
+
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Plochá šedá (4 stĺpce) bez bočného panela*"
+
+msgid ""
+"For developers who want to rewrite front css of the plugin front side. You "
+"are need to know CSS for this!"
+msgstr ""
+"Pre vývojárov, ktorí chcú prepísať prednú stranu css prednej strany doplnku. "
+"Na to potrebujete poznať CSS!"
+
+msgid ""
+"For example you want to show title of Product Categories as \"My Products\". "
+"Just for your convenience."
+msgstr ""
+"Napríklad chcete zobraziť názov kategórií produktov ako \"Moje produkty\". "
+"Len pre vaše pohodlie."
+
+msgid "For external cron use the next link"
+msgstr "Pre externý cron použite nasledujúci odkaz"
+
+msgid "For simple and for variables products"
+msgstr "Pre jednoduché a premenlivé produkty"
+
+msgid "For simple products only"
+msgstr "Len pre jednoduché produkty"
+
+msgid ""
+"For variable products you can show an image depending on the current filter "
+"selection. For example you have variation with red color, and that varation "
+"has its own preview image - if on the site front user will select red color "
+"this imag will be shown. You can select attributes by which images will be "
+"selected"
+msgstr ""
+"Pre variabilné produkty môžete zobraziť obrázok v závislosti od aktuálneho "
+"výberu filtra. Napríklad máte variáciu s červenou farbou a táto variácia má "
+"svoj vlastný náhľadový obrázok – ak si používateľ na stránke vyberie červenú "
+"farbu, zobrazí sa tento obrázok. Môžete vybrať atribúty, podľa ktorých sa "
+"budú obrázky vyberať"
+
+msgid ""
+"For which type of products will be realized searching by SKU. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"Pre aký typ produktov bude realizované vyhľadávanie podľa SKU. Požiadavka na "
+"produkty premenných vytvára viac dopytov mysql v databáze ..."
+
+msgid "Form AJAX redrawing"
+msgstr "Prekreslenie formulára AJAX"
+
+msgid "From"
+msgstr "od"
+
+msgid "Full - DD, d MM, yy"
+msgstr "Úplné - DD, d MM, r"
+
+msgid "GDPR"
+msgstr "GDPR"
+
+msgid "GDPR info"
+msgstr "Informácie o GDPR"
+
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Generovať atribúty pre krátky kód [woof]"
+
+msgid "Generate data for export"
+msgstr "Vygenerujte údaje na export"
+
+msgid "Generate shortcode"
+msgstr "Vygenerujte krátky kód"
+
+msgid "Get"
+msgstr "dostať"
+
+msgid "Get keys from any product by its ID"
+msgstr "Získajte kľúče od akéhokoľvek produktu podľa jeho ID"
+
+msgid "Global visibility"
+msgstr "Globálna viditeľnosť"
+
+msgid ""
+"Google charts library not loaded! If site is on localhost just disable "
+"statistic extension in tab Extensions!"
+msgstr ""
+"Knižnica grafov Google sa nenačítala! Ak je stránka na localhost, stačí "
+"vypnúť štatistické rozšírenie na karte Rozšírenia!"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid ""
+"Helps to more quickly find the minimum and maximum values for the filter by "
+"price on the site front and minimize server loading."
+msgstr ""
+"Pomáha rýchlejšie nájsť minimálne a maximálne hodnoty pre filter podľa ceny "
+"na prednej strane stránky a minimalizovať zaťaženie servera."
+
+msgid ""
+"Here is generated WOOF settings data for export. You can only export WOOF "
+"settings and not taxonomies or other site data. For taxonomies, products and "
+"other use special third-party plugins."
+msgstr ""
+"Tu sú vygenerované dáta nastavení WOOF na export. Môžete exportovať iba "
+"nastavenia WOOF a nie taxonómie alebo iné údaje lokality. Pre taxonómie, "
+"produkty a iné použite špeciálne doplnky tretích strán."
+
+msgid "Hide"
+msgstr "skryť"
+
+msgid "Hide auto filter by default"
+msgstr "V predvolenom nastavení skryť automatický filter"
+
+msgid "Hide childs in checkboxes and radio"
+msgstr "Skryť deti v začiarkavacích políčkach a rádiu"
+
+msgid ""
+"Hide childs in checkboxes and radio. Near checkbox/radio which has childs "
+"will be plus icon to show childs."
+msgstr ""
+"Skryť deti v začiarkavacích políčkach a rádiu. V blízkosti začiarkavacieho "
+"políčka/rádia, ktoré má deti, bude ikona plus na zobrazenie detí."
+
+msgid "Hide empty terms"
+msgstr "Skryť prázdne výrazy"
+
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Skryť prázdne výrazy v režime \"Dynamické prepočítanie\"."
+
+msgid "Hide search form by default and show one button instead"
+msgstr ""
+"Predvolene skryť vyhľadávací formulár a namiesto toho zobraziť jedno tlačidlo"
+
+msgid "Hide terms count text"
+msgstr "Skryť text počtu výrazov"
+
+msgid "Hide woof top panel buttons"
+msgstr "Skryť tlačidlá na hornom paneli"
+
+msgid "Host"
+msgstr "Hostiteľ"
+
+msgid "Hover"
+msgstr "Vznášať sa"
+
+msgid "How long user will get emails after subscription"
+msgstr "Ako dlho bude používateľ dostávať e-maily po predplatení"
+
+msgid ""
+"How many search requests will be catched and written down into the "
+"statistical mySQL table per 1 unique user before cron will assemble the data"
+msgstr ""
+"Koľko požiadaviek na vyhľadávanie sa zachytí a zapíše do štatistickej tabuľky "
+"mySQL na 1 jedinečného používateľa, kým cron zhromaždí údaje"
+
+msgid "How many show products in the autocomplete list"
+msgstr "Koľko produktov zobrazuje v zozname automatického dopĺňania"
+
+msgid ""
+"How many taxonomies and terms to show on the graphs. Use no more than 10 to "
+"understand situation with statistical data"
+msgstr ""
+"Koľko taxonómií a výrazov zobraziť v grafoch. Na pochopenie situácie so "
+"štatistickými údajmi nepoužívajte viac ako 10"
+
+msgid ""
+"How many taxonomies per one search request will be written down into the "
+"statistical mySQL table for 1 unique user. The excess data will be truncated! "
+"Number 5 is recommended. More depth - more space in the DataBase will be "
+"occupied by the data"
+msgstr ""
+"Koľko taxonómií na jednu požiadavku na vyhľadávanie sa zapíše do štatistickej "
+"tabuľky mySQL pre 1 jedinečného používateľa. Nadbytočné údaje budú skrátené! "
+"Odporúča sa číslo 5. Väčšia hĺbka – viac miesta v DataBase zaberú dáta"
+
+msgid "How often assemble data file"
+msgstr "Ako často zostavovať dátový súbor"
+
+msgid "How often update products data file"
+msgstr "Ako často aktualizovať dátový súbor produktov"
+
+msgid "How to assemble statistic"
+msgstr "Ako zostaviť štatistiku"
+
+msgid "How to open links with posts in suggestion"
+msgstr "Ako otvárať odkazy s príspevkami v návrhu"
+
+msgid "How to sort terms inside of filter block"
+msgstr "Ako triediť výrazy vo filtrovom bloku"
+
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 – rr-mm-dd"
+
+msgid "Id"
+msgstr "Id"
+
+msgid ""
+"If in options tab option \"Set filter automatically\" is \"Yes\" you can hide "
+"filter and show hide/show button instead of it."
+msgstr ""
+"Ak je v záložke možností možnosť \"Nastaviť filter automaticky\" \"Áno\", "
+"môžete filter skryť a namiesto neho zobraziť tlačidlo skryť/zobraziť."
+
+msgid ""
+"If to select NOT IN will be found items which not has selected terms!! Means "
+"vice versa to the the concept of including: excluding"
+msgstr ""
+"Ak zvolíte NIE JE V, nájdu sa položky, ktoré nemajú vybraté výrazy!! Znamená "
+"to naopak ku konceptu vrátane: vylúčenia"
+
+msgid ""
+"If you are need to customize something and you don't want to lose your "
+"changes after update"
+msgstr ""
+"Ak potrebujete niečo prispôsobiť a nechcete po aktualizácii stratiť svoje "
+"zmeny"
+
+msgid ""
+"If you do not like search key \"swoof\" in the search link you can replace it "
+"by your own word. But be care to avoid conflicts with any themes and plugins, "
+"+ never define it as symbol \"s\". Not understood? Simply do not touch it!"
+msgstr ""
+"Ak sa vám nepáči vyhľadávací kľúč \"swoof\" v odkaze vyhľadávania, môžete ho "
+"nahradiť vlastným slovom. Dávajte si však pozor, aby ste sa vyhli konfliktom "
+"s akýmikoľvek témami a zásuvnými modulmi, + nikdy to nedefinujte ako symbol "
+"\"s\". Nerozumel som? Jednoducho sa ho nedotýkajte!"
+
+msgid ""
+"If you have troubles with relevant terms recount on categories pages with "
+"dynamic recount for not logged in users - select transient."
+msgstr ""
+"Ak máte problémy s prepočítavaním relevantných výrazov na stránkach kategórií "
+"s dynamickým prepočítavaním pre neprihlásených používateľov - vyberte "
+"prechodné."
+
+msgid ""
+"If you want show relevant tags on the categories pages you should activate "
+"show count, dynamic recount and hide empty terms in the tab Options. But if "
+"you do not want show count (number) text near each term - set Yes here."
+msgstr ""
+"Ak chcete na stránkach kategórií zobraziť relevantné značky, mali by ste "
+"aktivovať počet zobrazení, dynamické prepočítavanie a skryť prázdne výrazy na "
+"karte Možnosti. Ak však nechcete, aby sa pri každom výraze zobrazoval text "
+"počtu (čísla), nastavte tu Áno."
+
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Ak sa chcete odhlásiť z odberu noviniek"
+
+msgid ""
+"If you want to exclude some current taxonomies terms from the search form! "
+"Use Reverse if you want include only instead of exclude! Example: 11,23,77"
+msgstr ""
+"Ak chcete z vyhľadávacieho formulára vylúčiť niektoré aktuálne taxonómie! Ak "
+"chcete iba zahrnúť namiesto vylúčenia, použite možnosť Obrátiť! Príklad: "
+"11,23,77"
+
+msgid "Image"
+msgstr "Obraz"
+
+msgid "Image for block toggle [closed]"
+msgstr "Obrázok pre prepínanie blokov [zatvorené]"
+
+msgid "Image for block toggle [opened]"
+msgstr "Obrázok pre prepínanie blokov [otvorené]"
+
+msgid "Image for checked color type checkbox"
+msgstr "Začiarkavacie políčko Obrázok pre začiarknutý typ farby"
+
+msgid "Image for checked image type checkbox"
+msgstr "Začiarkavacie políčko Obrázok pre začiarknutý typ obrázka"
+
+msgid ""
+"Image for color checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+"Obrázok pre farebné začiarkavacie políčka, keď je začiarknuté. Je lepšie "
+"použiť png. Veľkosť: 25 x 25 px."
+
+msgid ""
+"Image for image checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+"Po začiarknutí políčka Obrázok pre obrázok. Je lepšie použiť png. Veľkosť: 25 "
+"x 25 px."
+
+msgid ""
+"Image for sku search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"Obrázok pre tlačidlo vyhľadávania sku, ktoré sa zobrazí vedľa vstupu, keď tam "
+"používatelia zadajú akékoľvek symboly. Je lepšie použiť png. Veľkosť: 20 x 20 "
+"px."
+
+msgid "Image for subcategories [close]"
+msgstr "Obrázok pre podkategórie [zavrieť]"
+
+msgid "Image for subcategories [open]"
+msgstr "Obrázok pre podkategórie [otvoriť]"
+
+msgid ""
+"Image for text search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"Obrázok pre tlačidlo textového vyhľadávania, ktoré sa zobrazuje vedľa vstupu, "
+"keď tam používatelia zadávajú akékoľvek symboly. Je lepšie použiť png. "
+"Veľkosť: 20 x 20 px."
+
+msgid ""
+"Image or text, button-image can be selected below of the option, instead of "
+"default one in Slideout image field. If text - you can below of the option "
+"insert Slideout text"
+msgstr ""
+"Obrázok alebo text, obrázok tlačidla možno vybrať pod možnosťou namiesto "
+"predvoleného obrázka v poli Slideout image. Ak text - môžete pod možnosť "
+"vložiť vysúvací text"
+
+msgid "Image settings for term %s"
+msgstr "Nastavenia obrazu pre výraz %s"
+
+msgid "Image styles"
+msgstr "Štýly obrázkov"
+
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\". "
+"By default it is green cross."
+msgstr ""
+"Obrázok, keď na karte Možnosti vyberiete možnosť \"Skryť deti v "
+"začiarkavacích políčkach a rádiu\". Štandardne je to zelený krížik."
+
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\". "
+"By default it is green minus."
+msgstr ""
+"Obrázok, keď na karte Možnosti vyberiete možnosť \"Skryť deti v "
+"začiarkavacích políčkach a rádiu\". Štandardne je to zelené mínus."
+
+msgid "Image which displayed for tooltip"
+msgstr "Obrázok, ktorý sa zobrazuje ako popis"
+
+msgid ""
+"Image which displayed instead filter while it is closed if selected. Write "
+"\"none\" here if you want to use text only!"
+msgstr ""
+"Obrázok, ktorý sa zobrazuje namiesto filtrovania, keď je zatvorený, ak je "
+"vybratý. Ak chcete použiť iba text, napíšte sem \"žiadne\"!"
+
+msgid "Images"
+msgstr "snímky"
+
+msgid "Import data"
+msgstr "Import údajov"
+
+msgid "Import placed data"
+msgstr "Importujte umiestnené údaje"
+
+msgid "In stock"
+msgstr "Na sklade"
+
+msgid "In stock checkbox"
+msgstr "Zaškrtávacie políčko na sklade"
+
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "V tom istom okne (_self) alebo v novom (_blank)"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Init plugin on the next site pages only"
+msgstr "Init plugin iba na ďalších stránkach lokality"
+
+msgid "Init sections"
+msgstr "Úvodné sekcie"
+
+msgid "Init sections by default"
+msgstr "Štandardne iniciujte sekcie"
+
+msgid ""
+"Insert Gallery in post, page and custom post types just in two clicks. You "
+"can create great galleries for your products."
+msgstr ""
+"Vložte galériu do príspevkov, stránok a vlastných typov príspevkov iba dvoma "
+"kliknutiami. Môžete vytvárať skvelé galérie pre svoje produkty."
+
+msgid "Install"
+msgstr "inštalovať"
+
+msgid "Install Now"
+msgstr "teraz inštalovať"
+
+msgid "Ion Range slider"
+msgstr "Posuvník iónového rozsahu"
+
+msgid "Ion-Range slider js lib skin for range-sliders of the plugin"
+msgstr "Ion-Range slider js lib skin pre posúvače rozsahu pluginu"
+
+msgid ""
+"It concatenates all scripts and styles, minifies and compresses them, adds "
+"expires headers, caches them, and moves styles to the page head, and scripts "
+"to the footer"
+msgstr ""
+"Spája všetky skripty a štýly, minimalizuje ich a komprimuje, pridáva hlavičky "
+"s expiráciou, ukladá ich do vyrovnávacej pamäte a presúva štýly do hlavičky "
+"stránky a skripty do päty"
+
+msgid ""
+"It is better to keep products data file in wp-uploads folder to avoid data "
+"removing after the plugin update, but not all hosting providers allows to get "
+"json data from this folder, so if you select keep data in the plugin folder "
+"remember about it and reassemble products data using button above after the "
+"plugin update."
+msgstr ""
+"Je lepšie ponechať súbor s údajmi o produktoch v priečinku wp-uploads, aby "
+"ste predišli odstráneniu údajov po aktualizácii doplnku, ale nie všetci "
+"poskytovatelia hostingu umožňujú získať údaje json z tohto priečinka, takže "
+"ak vyberiete ponechať údaje v priečinku doplnku, pamätajte na to a po "
+"aktualizácii doplnku znova zostavte údaje o produktoch pomocou tlačidla "
+"vyššie."
+
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Započíta sa do filtra (iba pre iónový posúvač)"
+
+msgid "JavaScript code after AJAX is done"
+msgstr "JavaScript kód po dokončení AJAX"
+
+msgid "LIKE"
+msgstr "PÁČI SA MI TO"
+
+msgid "LIKE or Equally"
+msgstr "LIKE alebo Equally"
+
+msgid "Label"
+msgstr "Štítok"
+
+msgid "Leave it empty if you not need this"
+msgstr "Ak to nepotrebujete, nechajte ho prázdne"
+
+msgid "Left"
+msgstr "Ľavý"
+
+msgid "Lets checked terms will be on the top"
+msgstr "Začiarknuté výrazy budú navrchu"
+
+msgid "Links"
+msgstr "odkazy"
+
+msgid "Links to posts in suggestion"
+msgstr "Odkazy na príspevky v návrhu"
+
+msgid "Listen catalog visibility"
+msgstr "Viditeľnosť katalógu"
+
+msgid ""
+"Listen catalog visibility - options in each product backend page in 'Publish' "
+"sidebar widget."
+msgstr ""
+"Viditeľnosť katalógu – možnosti na každej koncovej stránke produktu v "
+"miniaplikácii na bočnom paneli „Zverejniť“."
+
+msgid "Loading ..."
+msgstr "Načítava ..."
+
+msgid "Loading balls - SVG"
+msgstr "Načítavanie loptičiek - SVG"
+
+msgid "Loading bars - SVG"
+msgstr "Načítavacie lišty - SVG"
+
+msgid "Loading bubbles - SVG"
+msgstr "Načítavanie bublín - SVG"
+
+msgid "Loading cubes - SVG"
+msgstr "Načítavanie kociek - SVG"
+
+msgid "Loading cyclone - SVG"
+msgstr "Nakladací cyklón - SVG"
+
+msgid "Loading spin - SVG"
+msgstr "Načítanie rotácie - SVG"
+
+msgid "Loading spinning bubbles - SVG"
+msgstr "Načítavanie rotujúcich bublín - SVG"
+
+msgid "Loading spokes - SVG"
+msgstr "Načítavacie lúče - SVG"
+
+msgid "Loading word"
+msgstr "Načítava sa slovo"
+
+msgid "Logic of filtering"
+msgstr "Logika filtrovania"
+
+msgid "Looks like its not the WOOF extension here %s!"
+msgstr "Zdá sa, že tu nejde o rozšírenie WOOF %s!"
+
+msgid "Looks like troubles with JavaScript!"
+msgstr "Vyzerá to na problémy s JavaScriptom!"
+
+msgid "Make filtering"
+msgstr "Vykonajte filtrovanie"
+
+msgid ""
+"Make filtering after clearing the SKU field or just clear the text input."
+msgstr ""
+"Vykonajte filtrovanie po vymazaní poľa SKU alebo jednoducho vymažte zadávanie "
+"textu."
+
+msgid "Max deep of the search request"
+msgstr "Maximálna hĺbka požiadavky na vyhľadávanie"
+
+msgid "Max height of the block"
+msgstr "Maximálna výška bloku"
+
+msgid "Max price"
+msgstr "Maximálna cena"
+
+msgid "Max requests per unique user"
+msgstr "Maximálny počet žiadostí na jedinečného používateľa"
+
+msgid "Max saved queries per user"
+msgstr "Maximálny počet uložených dopytov na používateľa"
+
+msgid "Max subscriptions per user"
+msgstr "Maximálny počet odberov na používateľa"
+
+msgid "Max terms or taxonomies per graph"
+msgstr "Maximálny počet výrazov alebo taxonómií na graf"
+
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr ""
+"Maximálny počet e-mailov na jedného prihláseného používateľa. -1 znamená bez "
+"obmedzenia."
+
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Maximálny počet odberov pre jedného registrovaného užívateľa."
+
+msgid "Medium - d MM, y"
+msgstr "Stredná - d MM, r"
+
+msgid "Meta Data"
+msgstr "Meta dáta"
+
+msgid "Meta Fields"
+msgstr "Meta polia"
+
+msgid "Meta filter"
+msgstr "Meta filter"
+
+msgid "Min price"
+msgstr "Mimo sezóny cena"
+
+msgid "Min rating:"
+msgstr "Moje hodnotenie:"
+
+msgid "Mobile behavior"
+msgstr "Mobilné správanie"
+
+msgid "More about extension"
+msgstr "Viac o predĺžení"
+
+msgid "More video"
+msgstr "Ďalšie video"
+
+msgid "Multi Drop-down"
+msgstr "Viacnásobná rozbaľovacia ponuka"
+
+msgid "My query"
+msgstr "Môj dotaz"
+
+msgid "NOT IN"
+msgstr "NIE V"
+
+msgid "New Products by your request"
+msgstr "Nové produkty podľa vašej požiadavky"
+
+msgid "New products"
+msgstr "Nové produkty"
+
+msgid "New section"
+msgstr "Nová sekcia"
+
+msgid "No"
+msgstr "žiadny"
+
+msgid "No limit"
+msgstr "Bez obmedzenia"
+
+msgid "No products found"
+msgstr "Nenašli sa žiadne produkty"
+
+msgid "None"
+msgstr "nikto"
+
+msgid "Nope, maybe later!"
+msgstr "Nie, možno neskôr!"
+
+msgid ""
+"Not possible to create folder %s automatically, create it please manually!"
+msgstr ""
+"Priečinok %s nie je možné vytvoriť automaticky, vytvorte ho prosím ručne!"
+
+msgid ""
+"Not possible. Enter options ranges in the plugin settings -> tab Structure -> "
+"Search by price -> additional options"
+msgstr ""
+"Nemožné. Zadajte rozsahy možností v nastaveniach pluginu -> karta Štruktúra -"
+"> Hľadať podľa ceny -> ďalšie možnosti"
+
+msgid "Not toggled terms count"
+msgstr "Nepočítajú sa prepnuté výrazy"
+
+msgid ""
+"Note for admin: Folder %s for extensions is not writable OR doesn exists! "
+"Ignore this message if you not planning using WOOF custom extensions!"
+msgstr ""
+"Poznámka pre správcu: Priečinok %s pre rozšírenia nie je zapisovateľný ALEBO "
+"neexistuje! Ignorujte túto správu, ak neplánujete používať vlastné rozšírenia "
+"WOOF!"
+
+msgid "Notes for customer"
+msgstr "Poznámky pre zákazníka"
+
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "Všimnite si! Pridajte možnosti v nastaveniach pluginu->Meta filter"
+
+msgid "Notice:"
+msgstr "Upozornenie:"
+
+msgid "Numeric."
+msgstr "Číselné."
+
+msgid "OR"
+msgstr "ALEBO"
+
+msgid "Offset"
+msgstr "offset"
+
+msgid "Ok, you deserve it"
+msgstr "Dobre, zaslúžiš si to"
+
+msgid "On sale"
+msgstr "na predaj"
+
+msgid "On sale checkbox"
+msgstr "Začiarkavacie políčko na predaj"
+
+msgid "One month"
+msgstr "Jeden mesiac"
+
+msgid "One week"
+msgstr "Jeden týždeň"
+
+msgid "Optimize loading of WOOF JavaScript files"
+msgstr "Optimalizujte načítanie súborov WOOF JavaScript"
+
+msgid "Optimize price filter"
+msgstr "Optimalizovať cenový filter"
+
+msgid "Options"
+msgstr "možnosti"
+
+msgid "Order dropdown css selector"
+msgstr "Rozbaľovací výber css objednávky"
+
+msgid "Overlay image background"
+msgstr "Prekryvný obrázok na pozadí"
+
+msgid "Overlay skins"
+msgstr "Prekryvné skiny"
+
+msgid "Override no products found content"
+msgstr "Prepísať obsah žiadnych nájdených produktov"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Per page css selector"
+msgstr "Selektor CSS na stránku"
+
+msgid ""
+"Period of emailing to subscribed users. Set it to \"No\" if you going to use "
+"external cron."
+msgstr ""
+"Obdobie odosielania e-mailov prihláseným používateľom. Ak chcete použiť "
+"externý cron, nastavte ho na \"Nie\"."
+
+msgid ""
+"Place in which you can paste text or/and any shortcodes which will be "
+"displayed when customer will not find any products by his search criterias. "
+"Example:"
+msgstr ""
+"Miesto, do ktorého môžete vložiť text alebo/a akékoľvek krátke kódy, ktoré sa "
+"zobrazia, keď zákazník nenájde žiadne produkty podľa svojich kritérií "
+"vyhľadávania. Príklad:"
+
+msgid "Placeholder"
+msgstr "Zástupný"
+
+msgid "Placeholder text"
+msgstr "Zástupný text"
+
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay – CSS"
+
+msgid "Plainoverlay color"
+msgstr "Prekrytá farba"
+
+msgid "Please fill the title field."
+msgstr "Vyplňte pole názvu."
+
+msgid "Please read documents"
+msgstr "Prečítajte si dokumenty"
+
+msgid "Please update database:"
+msgstr "Aktualizujte prosím databázu:"
+
+msgid "Position"
+msgstr "poloha"
+
+msgid "Postfix"
+msgstr "Postfix"
+
+msgid "Prefix"
+msgstr "Predpona"
+
+msgid "Price - from %s to %s"
+msgstr "Cena - od %s do %s"
+
+msgid "Price:"
+msgstr "cena:"
+
+msgid "Print Graphs"
+msgstr "Tlačiť grafy"
+
+msgid "Priority of limitations"
+msgstr "Priorita obmedzení"
+
+msgid "Product not found"
+msgstr "Produkt sa nenašiel"
+
+msgid "Products Filter"
+msgstr "Filtrovať produkty"
+
+msgid "Products Messenger"
+msgstr "Produkty Messenger"
+
+msgid "Products and Variants"
+msgstr "Produkty a varianty"
+
+msgid "Products assembling period in data file for quick search."
+msgstr "Obdobie montáže produktov v dátovom súbore pre rýchle vyhľadávanie."
+
+msgid "Products per page"
+msgstr "Produkty na stránku"
+
+msgid ""
+"Products per page when searching is going only. Set here -1 to prevent "
+"pagination managing from here!"
+msgstr ""
+"Produkty na stránku pri vyhľadávaní ide len. Nastavte tu -1, aby ste "
+"zabránili spravovaniu stránkovania odtiaľto!"
+
+msgid "Quick search"
+msgstr "Rýchle vyhľadávanie"
+
+msgid "Quick video tutorial"
+msgstr "Rýchly video návod"
+
+msgid "Radio and checkboxes skin"
+msgstr "Vzhľad rádia a začiarkavacích políčok"
+
+msgid "Range"
+msgstr "Rozsah"
+
+msgid "Range-slider skin"
+msgstr "Koža s posúvačom rozsahu"
+
+msgid "Ranges for price filter."
+msgstr "Rozsahy pre cenový filter."
+
+msgid "Read about the Statistic extension here"
+msgstr "Prečítajte si o rozšírení Štatistika tu"
+
+msgid "Reassemble data file"
+msgstr "Znovu zostavte dátový súbor"
+
+msgid "Reassemble data file for quick search manually now"
+msgstr "Znova zostavte dátový súbor na rýchle vyhľadávanie manuálne"
+
+msgid "Reassemble products data now!"
+msgstr "Znova zostavte údaje o produktoch!"
+
+msgid "Recommended plugins for your site flexibility and features"
+msgstr "Odporúčané doplnky pre flexibilitu a funkcie vášho webu"
+
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr ""
+"Červené tlačidlá v hornej časti stránky obchodu, keď je vyhľadávanie hotové"
+
+msgid "Redirect to"
+msgstr "Presmerovať na"
+
+msgid ""
+"Redirect to any page - use it by your own logic. Leave it empty for default "
+"behavior."
+msgstr ""
+"Presmerujte na ľubovoľnú stránku – použite ju podľa vlastnej logiky. Pre "
+"predvolené správanie nechajte pole prázdne."
+
+msgid ""
+"Redraws search form by AJAX, and to start filtering \"Filter\" button should "
+"be pressed. Useful when uses hierarchical drop-down for example"
+msgstr ""
+"Prekreslí vyhľadávací formulár pomocou AJAX a na spustenie filtrovania treba "
+"stlačiť tlačidlo \"Filter\". Užitočné pri použití napríklad hierarchickej "
+"rozbaľovacej ponuky"
+
+msgid "Reset"
+msgstr "resetovať"
+
+msgid "Reset button text"
+msgstr "Text tlačidla Resetovať"
+
+msgid ""
+"Reset button text in the search form. Write \"none\" to hide this button on "
+"front."
+msgstr ""
+"Obnoviť text tlačidla vo formulári vyhľadávania. Ak chcete skryť toto "
+"tlačidlo vpredu, napíšte \"žiadne\"."
+
+msgid "Reset items order"
+msgstr "Obnoviť poradie položiek"
+
+msgid "Result count css selector"
+msgstr "Selektor css počtu výsledkov"
+
+msgid "Reverse"
+msgstr "Zvrátiť"
+
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "Obrátiť: deaktivovať doplnok iba na ďalších stránkach lokality"
+
+msgid "Right"
+msgstr "Správny"
+
+msgid "Role"
+msgstr "Úloha"
+
+msgid ""
+"SKU textinput placeholder. Set \"none\" if you want leave it empty on the "
+"front."
+msgstr ""
+"Zástupný symbol pre textový vstup SKU. Nastavte \"žiadny\", ak ho chcete "
+"nechať na prednej strane prázdne."
+
+msgid "SS"
+msgstr "SS"
+
+msgid "SSS"
+msgstr "SSS"
+
+msgid "SSSS"
+msgstr "ssss"
+
+msgid "SSSSS"
+msgstr "SSSSS"
+
+msgid "Save current search query"
+msgstr "Uložiť aktuálny vyhľadávací dopyt"
+
+msgid "Save meta fields"
+msgstr "Uložiť meta polia"
+
+msgid "Save search query"
+msgstr "Uložiť vyhľadávací dopyt"
+
+msgid "Search by Author"
+msgstr "Vyhľadávanie podľa autora"
+
+msgid "Search by InStock"
+msgstr "Vyhľadávanie podľa InStock"
+
+msgid "Search by Price"
+msgstr "Vyhľadajte podľa ceny"
+
+msgid "Search by SKU"
+msgstr "Hľadať podľa SKU"
+
+msgid "Search by Text"
+msgstr "Vyhľadávanie podľa textu"
+
+msgid "Search by content"
+msgstr "Vyhľadávajte podľa obsahu"
+
+msgid "Search by content OR excerpt"
+msgstr "Vyhľadávajte podľa obsahu ALEBO úryvku"
+
+msgid "Search by description in variations"
+msgstr "Hľadajte podľa popisu vo variáciách"
+
+msgid "Search by exact value OR if meta key exists"
+msgstr "Vyhľadávajte podľa presnej hodnoty ALEBO, ak meta kľúč existuje"
+
+msgid "Search by excerpt"
+msgstr "Hľadaj podľa úryvku"
+
+msgid "Search by featured"
+msgstr "Hľadať podľa odporúčaných"
+
+msgid "Search by full word only"
+msgstr "Vyhľadávať iba podľa celého slova"
+
+msgid "Search by rating"
+msgstr "Hľadajte podľa hodnotenia"
+
+msgid "Search by text"
+msgstr "Hľadajte podľa textu"
+
+msgid "Search by title"
+msgstr "Vyhľadávanie podľa názvu"
+
+msgid "Search by title AND content"
+msgstr "Hľadajte podľa názvu A obsahu"
+
+msgid "Search by title OR content"
+msgstr "Vyhľadávajte podľa názvu ALEBO obsahu"
+
+msgid "Search by title OR content OR excerpt"
+msgstr "Vyhľadávajte podľa názvu ALEBO obsahu ALEBO úryvku"
+
+msgid "Search in products and their variations"
+msgstr "Vyhľadávanie v produktoch a ich variáciách"
+
+msgid "Search in variable produts"
+msgstr "Vyhľadávajte vo variabilných produktoch"
+
+msgid "Search logic"
+msgstr "Logika vyhľadávania"
+
+msgid "Search option"
+msgstr "Možnosť vyhľadávania"
+
+msgid "Search slug"
+msgstr "Hľadaj slimák"
+
+msgid "Search value"
+msgstr "Hodnota vyhľadávania"
+
+msgid "Secret key for external cron"
+msgstr "Tajný kľúč pre externý cron"
+
+msgid "Sections"
+msgstr "oddiely"
+
+msgid "Sections behavior"
+msgstr "Správanie sekcií"
+
+msgid "See more new products..."
+msgstr "Pozrite si ďalšie nové produkty..."
+
+msgid ""
+"Select \"Yes\" if you want to TRY make filtering in your shop by AJAX. Not "
+"compatible for 100% of all wp themes, so test it well if you are going to buy "
+"premium version of the plugin because incompatibility is not fixable!"
+msgstr ""
+"Vyberte \"Áno\", ak chcete vo svojom obchode VYSKÚŠAŤ filtrovanie pomocou "
+"AJAXu. Nie je kompatibilný so 100 % všetkých tém wp, takže ak sa chystáte "
+"kúpiť prémiovú verziu doplnku, dobre ho otestujte, pretože nekompatibilitu "
+"nemožno opraviť!"
+
+msgid "Select Image"
+msgstr "Vyberte položku Obrázok"
+
+msgid "Select a product author"
+msgstr "Vyberte autora produktu"
+
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Vyberte prijateľný pre váš typ hostiteľa cronu"
+
+msgid ""
+"Select cron which you want to use for the statistic assembling. Better use "
+"WordPress cron, but on the server create external cron and set there period "
+"of site visiting."
+msgstr ""
+"Vyberte cron, ktorý chcete použiť na zostavovanie štatistík. Je lepšie použiť "
+"cron WordPress, ale na serveri vytvorte externý cron a nastavte tam dobu "
+"návštevy stránky."
+
+msgid "Select period:"
+msgstr "Vyberte obdobie:"
+
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Vyberte taxonómie a meta kľúče, ktoré chcete sledovať"
+
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr "Vyberte taxonómie na karte Možnosti a stlačte \"Uložiť zmeny\""
+
+msgid ""
+"Select taxonomy, taxonomies combinations OR leave this field empty to see "
+"general data for all the most requested taxonomies"
+msgstr ""
+"Vyberte taxonómiu, kombinácie taxonómií ALEBO nechajte toto pole prázdne, aby "
+"ste videli všeobecné údaje pre všetky najžiadanejšie taxonómie"
+
+msgid "Select the time period for which you want to see statistical data"
+msgstr "Vyberte časové obdobie, za ktoré chcete zobraziť štatistické údaje"
+
+msgid ""
+"Selected terms will always be displayed on the top (for parent-terms only, "
+"child will be on the top but under parent-term as it was)"
+msgstr ""
+"Vybrané výrazy budú vždy zobrazené navrchu (iba pre rodičovské termíny, dieťa "
+"bude navrchu, ale pod rodičovským termínom tak, ako bolo)"
+
+msgid "Server options for statistic stock"
+msgstr "Možnosti servera pre štatistické zásoby"
+
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr ""
+"Ak chcete zakázať zástupný symbol pre tento textový vstup, nastavte \"žiadny"
+"\"."
+
+msgid "Set filter automatically"
+msgstr "Nastavte filter automaticky"
+
+msgid "Set filter automatically on the shop page"
+msgstr "Nastavte filter automaticky na stránke obchodu"
+
+msgid "Settings"
+msgstr "nastavenie"
+
+msgid "Short - d M, y"
+msgstr "Krátke - d M, r"
+
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "Malo by byť vysúvacie tlačidlo viditeľné na mobilných zariadeniach"
+
+msgid "Show"
+msgstr "Šou"
+
+msgid "Show stars in drop-down"
+msgstr "Zobraziť hviezdičky v rozbaľovacej ponuke"
+
+msgid "Show Featured products checkbox inside WOOF search form"
+msgstr ""
+"Zobraziť začiarkavacie políčko Odporúčané produkty vo formulári vyhľadávania "
+"WOOF"
+
+msgid "Show In stock only checkbox inside woof search form"
+msgstr ""
+"Zobraziť Začiarkavacie políčko iba na sklade vo formulári vyhľadávania woof"
+
+msgid "Show On backorder checkbox inside woof search form"
+msgstr ""
+"Začiarkavacie políčko Zobraziť pri nevybavenej objednávke vo formulári "
+"vyhľadávania"
+
+msgid "Show On sale only checkbox inside woof search form"
+msgstr ""
+"Zobraziť začiarkavacie políčko Len vo výpredaji vo formulári vyhľadávania"
+
+msgid "Show Search by author drop-down inside woof search form"
+msgstr ""
+"Zobraziť rozbaľovaciu ponuku Vyhľadávanie podľa autora vo formulári "
+"vyhľadávania"
+
+msgid "Show blocks helper button"
+msgstr "Zobraziť pomocné tlačidlo blokov"
+
+msgid "Show button"
+msgstr "Zobraziť tlačidlo"
+
+msgid ""
+"Show button for woocommerce filter by price inside woof search form when it "
+"is dispayed as woo range-slider"
+msgstr ""
+"Zobraziť tlačidlo pre filter woocommerce podľa ceny vo formulári vyhľadávania "
+"woof, keď je zobrazené ako posúvač rozsahu woo"
+
+msgid "Show count"
+msgstr "Zobraziť počet"
+
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "Na prednej strane zobraziť počet položiek v blízkosti výrazov taxonómie"
+
+msgid ""
+"Show count of items near taxonomies terms on the front dynamically. Must be "
+"switched on \"Show count\". In turbo mode if filter is very big better select "
+"\"Yes, only for PC\""
+msgstr ""
+"Dynamicky zobrazovať počet položiek v blízkosti výrazov taxonómie na prednej "
+"strane. Musí byť zapnuté \"Zobraziť počet\". V turbo režime, ak je filter "
+"veľmi veľký, radšej zvoľte \"Áno, len pre PC\""
+
+msgid ""
+"Show helper button for shortcode [woof] on the front when 'Set filter "
+"automatically' is Yes"
+msgstr ""
+"Zobraziť pomocné tlačidlo pre krátky kód [woof] na prednej strane, keď je "
+"možnosť „Nastaviť filter automaticky“ nastavená na Áno"
+
+msgid "Show image of variation"
+msgstr "Zobraziť obrázok variácie"
+
+msgid "Show image title"
+msgstr "Zobraziť názov obrázka"
+
+msgid "Show image title below picture"
+msgstr "Zobraziť názov obrázka pod obrázkom"
+
+msgid "Show in one column"
+msgstr "Zobraziť v jednom stĺpci"
+
+msgid "Show in one column with title"
+msgstr "Zobraziť v jednom stĺpci s názvom"
+
+msgid "Show less"
+msgstr "Zobraziť menej"
+
+msgid "Show more"
+msgstr "Zobraziť viac"
+
+msgid "Show notice"
+msgstr "Ukážte upozornenie"
+
+msgid "Show notice on product page"
+msgstr "Zobraziť upozornenie na stránke produktu"
+
+msgid "Show on all devices"
+msgstr "Zobraziť na všetkých zariadeniach"
+
+msgid "Show only on desktop"
+msgstr "Zobraziť iba na pracovnej ploche"
+
+msgid "Show only on mobile"
+msgstr "Zobraziť iba na mobile"
+
+msgid "Show price text inputs"
+msgstr "Zobraziť textové vstupy ceny"
+
+msgid "Show product mesenger box inside woof search form"
+msgstr "Zobraziť produkt messenger box vo vyhľadávacom formulári woof"
+
+msgid "Show products filter form"
+msgstr "Zobraziť formulár filtra produktov"
+
+msgid "Show subscription button"
+msgstr "Zobraziť tlačidlo odberu"
+
+msgid ""
+"Show subscription button without search query. For example, user will be able "
+"to subscribe for new products in any products category."
+msgstr ""
+"Zobraziť tlačidlo odberu bez vyhľadávacieho dopytu. Používateľ sa napríklad "
+"bude môcť prihlásiť na odber nových produktov v akejkoľvek kategórii "
+"produktov."
+
+msgid "Show textinput for searching by products sku"
+msgstr "Zobraziť textový vstup pre vyhľadávanie podľa produktov sku"
+
+msgid "Show textinput for searching by products title"
+msgstr "Zobraziť textový vstup pre vyhľadávanie podľa názvu produktov"
+
+msgid "Show title label"
+msgstr "Zobraziť štítok s názvom"
+
+msgid "Show toggle button"
+msgstr "Zobraziť prepínacie tlačidlo"
+
+msgid ""
+"Show toggle button near the title on the front above the block of html-items"
+msgstr ""
+"Zobraziť prepínač vedľa názvu na prednej strane nad blokom html položiek"
+
+msgid "Show tooltip"
+msgstr "Zobraziť popis"
+
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "Zobraziť filter woocommerce podľa ceny vo formulári vyhľadávania woof"
+
+msgid "Show/Hide meta block title on the front"
+msgstr "Zobraziť/skryť názov meta bloku na prednej strane"
+
+msgid "Show/Hide slideout on shop pages"
+msgstr "Zobraziť/skryť posuvník na stránkach obchodu"
+
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "Zobraziť/skryť názov bloku taxonómie na prednej strane"
+
+msgid ""
+"Shrink, beautify, track, manage and share any URL on or off of your WordPress "
+"website. Create links that look how you want using your own domain name!"
+msgstr ""
+"Zmenšujte, skrášľujte, sledujte, spravujte a zdieľajte akúkoľvek adresu URL "
+"na svojom webe WordPress alebo mimo neho. Vytvorte odkazy, ktoré vyzerajú "
+"tak, ako chcete, pomocou vlastného názvu domény!"
+
+msgid "Simple products only"
+msgstr "Len jednoduché produkty"
+
+msgid "Skins for the auto filter"
+msgstr "Vzhľady pre automatický filter"
+
+msgid ""
+"Skins for the auto-filter which appears on the shop page if in tab Options "
+"enabled Set filter automatically"
+msgstr ""
+"Vzhľady pre automatický filter, ktorý sa zobrazí na stránke obchodu, ak je na "
+"karte Možnosti povolená Nastaviť filter automaticky"
+
+msgid "Slideout"
+msgstr "Vysunúť"
+
+msgid "Slideout image"
+msgstr "Výsuvný obrázok"
+
+msgid "Slideout text"
+msgstr "Výsuvný text"
+
+msgid "Slider"
+msgstr "posúvač"
+
+msgid ""
+"Sometimes code 'wp_query->is_post_type_archive = true' does not necessary. "
+"Try to disable this and try woof-search on your site. If all is ok - leave "
+"its disabled. Disabled code by this option you can find in index.php by mark "
+"disable_swoof_influence."
+msgstr ""
+"Niekedy kód 'wp_query->is_post_type_archive = true' nie je potrebný. Skúste "
+"to vypnúť a skúste woof-search na svojej stránke. Ak je všetko v poriadku - "
+"nechajte ho vypnutý. Kód zakázaný touto voľbou nájdete v index.php pod "
+"značkou disable_swoof_influence."
+
+msgid "Somthing wrong!"
+msgstr "Niečo nie je v poriadku!"
+
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "Prepáč! Tento produkt nie je vhodný pre vaše vyhľadávanie %title%."
+
+msgid "Sort terms"
+msgstr "Zoradiť výrazy"
+
+msgid "Speed"
+msgstr "Rýchlosť"
+
+msgid ""
+"Start searching just after changing any of the elements on the search form"
+msgstr ""
+"Začnite hľadať hneď po zmene ktoréhokoľvek z prvkov vo formulári vyhľadávania"
+
+msgid "State after init"
+msgstr "Stav po init"
+
+msgid "Statistic"
+msgstr "Štatisticky"
+
+msgid ""
+"Statistic -> tab Options -> \"Stat server options\" inputs should be filled "
+"in by right data, another way not possible to collect statistical data!"
+msgstr ""
+"Štatistika -> záložka Možnosti -> \"Možnosti štatistického servera\" vstupy "
+"by mali byť vyplnené správnymi údajmi, iným spôsobom nie je možné zbierať "
+"štatistické údaje!"
+
+msgid ""
+"Statistic extension is activated but statistics collection is not enabled. "
+"Enable it on: tab Statistic -> tab Options -> \"Statistics collection enabled"
+"\""
+msgstr ""
+"Štatistické rozšírenie je aktivované, ale zhromažďovanie štatistík nie je "
+"povolené. Povoľte ho na: záložka Štatistika -> záložka Možnosti -> "
+"\"Zhromažďovanie štatistík je povolené\""
+
+msgid "Statistic for:"
+msgstr "Štatistika pre:"
+
+msgid "Statistical parameters:"
+msgstr "Štatistické parametre:"
+
+msgid "Statistics collection:"
+msgstr "Zbierka štatistík:"
+
+msgid "Step"
+msgstr "Krok"
+
+msgid "Step by step filter"
+msgstr "Filter krok za krokom"
+
+msgid "Storage type"
+msgstr "Typ úložiska"
+
+msgid "Structure"
+msgstr "štruktúra"
+
+msgid "Styles and codes which are applied on the demo site"
+msgstr "Štýly a kódy, ktoré sa používajú na stránke s ukážkou"
+
+msgid "Subject of the email"
+msgstr "Predmet emailu"
+
+msgid "Subject of the email."
+msgstr "Predmet emailu."
+
+msgid "Submit button position"
+msgstr "Pozícia tlačidla Odoslať"
+
+msgid "Subscribe"
+msgstr "Odoslať"
+
+msgid "Subscribe on the current search request"
+msgstr "Prihláste sa na odber aktuálnej žiadosti o vyhľadávanie"
+
+msgid "Subscription"
+msgstr "Predplatné"
+
+msgid "Subscription time"
+msgstr "Čas predplatného"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid ""
+"Syntax example: product_cat>pa_size,by_instock>pa_color. In the example "
+"described: if a user will select a [product category] then filter by "
+"[pa_size] or [by_instock] will be appeared [pa_color]. For shortcode [woof] "
+"use an attribute: [conditionals]. Use line break in the textarea to define "
+"some rules (press Enter keyboard). In [woof] shortcode to define some rules "
+"use sign: [+]."
+msgstr ""
+"Príklad syntaxe: product_cat>pa_size,by_instock>pa_color. V popísanom "
+"príklade: ak používateľ vyberie [kategóriu produktu], zobrazí sa filtrovanie "
+"podľa [pa_size] alebo [podľa_skladu] [pa_color]. Pre krátky kód [woof] "
+"použite atribút: [conditionals]. Použite zalomenie riadku v textovej oblasti "
+"na definovanie niektorých pravidiel (stlačte klávesnicu Enter). V skrátenom "
+"kóde [woof] na definovanie niektorých pravidiel použite znak: [+]."
+
+msgid "TEXT"
+msgstr "TEXT"
+
+msgid ""
+"TRUE value, all another are FALSE. Example: yes or true or 1. By default if "
+"this textinput empty 1 is true and 0 is false"
+msgstr ""
+"Hodnota TRUE, všetky ostatné sú FALSE. Príklad: áno alebo pravda alebo 1. V "
+"predvolenom nastavení, ak tento textový vstup prázdny, 1 je pravda a 0 je "
+"nepravda"
+
+msgid "Tax"
+msgstr "Daň"
+
+msgid "Taxes"
+msgstr "údajov"
+
+msgid "Taxonomy conditionals"
+msgstr "Podmienky taxonómie"
+
+msgid "Taxonomy custom label"
+msgstr "Vlastný štítok taxonómie"
+
+msgid "Terms:"
+msgstr "Podmienky:"
+
+msgid "Text"
+msgstr "text"
+
+msgid ""
+"Text before the price filter range slider. Leave it empty if you not need it!"
+msgstr ""
+"Text pred posúvačom rozsahu cenového filtra. Nechajte ho prázdny, ak ho "
+"nepotrebujete!"
+
+msgid "Text for block toggle [closed]"
+msgstr "Text pre prepínanie blokov [zatvorené]"
+
+msgid "Text for block toggle [opened]"
+msgstr "Text pre prepínanie blokov [otvorené]"
+
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Text, ak aktuálny produkt nie je vhodný pre uložené vyhľadávania"
+
+msgid "Text if current product is suitable for saved searches"
+msgstr "Text, ak je aktuálny produkt vhodný pre uložené vyhľadávania"
+
+msgid "Text in header of the email."
+msgstr "Text v hlavičke emailu."
+
+msgid ""
+"Text in the body of the email. You can use next variables: [DISPLAY_NAME], "
+"[USER_NICENAME], [PRODUCT_COUNT]."
+msgstr ""
+"Text v tele e-mailu. Môžete použiť nasledujúce premenné: [DISPLAY_NAME], "
+"[USER_NICENAME], [PRODUCT_COUNT]."
+
+msgid "Text of the email"
+msgstr "Text emailu"
+
+msgid "Text search"
+msgstr "Textové vyhľadávanie"
+
+msgid "Text search conditional"
+msgstr "Podmienečné vyhľadávanie textu"
+
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr ""
+"Text, ktorý sa zobrazuje namiesto filtrovania, keď je zatvorený, ak je "
+"vybratý."
+
+msgid "Thank you, I did it!"
+msgstr "Ďakujem, podarilo sa mi to!"
+
+msgid "The placeholder in title field"
+msgstr "Zástupný symbol v poli názvu"
+
+msgid "The result is only with the full coincidence of words"
+msgstr "Výsledok je len pri úplnej zhode slov"
+
+msgid "The submit and reset buttons position in current search form"
+msgstr ""
+"Pozícia tlačidiel Odoslať a Resetovať v aktuálnom vyhľadávacom formulári"
+
+msgid "The text before the block of subscription block"
+msgstr "Text pred blokom bloku predplatného"
+
+msgid "The text in the button"
+msgstr "Text v tlačidle"
+
+msgid ""
+"This button is just helper which allows to assemble data for [woof] shortcode."
+msgstr ""
+"Toto tlačidlo je len pomocník, ktorý umožňuje zostaviť dáta pre krátky kód "
+"[woof]."
+
+msgid ""
+"This data is very important for assembling statistics data, so please fill "
+"fields very responsibly. To collect statistical data uses a separate MySQL "
+"table."
+msgstr ""
+"Tieto údaje sú veľmi dôležité pre zostavovanie štatistických údajov, preto "
+"vyplňte polia veľmi zodpovedne. Na zber štatistických údajov sa používa "
+"samostatná tabuľka MySQL."
+
+msgid "This link does not work."
+msgstr "Tento odkaz nefunguje."
+
+msgid ""
+"This option enables or disables initialization of the plugin on all pages of "
+"the site except links and link-masks in the textarea. One row - one link (or "
+"link-mask)! Example of link: https://site.com/ajaxed-search-7. Example of "
+"link-mask: product-category . Leave it empty to allow the plugin "
+"initialization on all pages of the site!"
+msgstr ""
+"Táto možnosť povoľuje alebo zakazuje inicializáciu doplnku na všetkých "
+"stránkach lokality okrem odkazov a masiek odkazov v textovej oblasti. Jeden "
+"riadok - jeden odkaz (alebo maska ​​odkazu)! Príklad odkazu: https://site.com/"
+"ajaxed-search-7. Príklad masky odkazu: produktová kategória . Ak chcete "
+"povoliť inicializáciu doplnku na všetkých stránkach lokality, nechajte pole "
+"prázdne!"
+
+msgid ""
+"This option place WOOF JavaScript files on the site footer. Use it for page "
+"loading optimization. Be care with this option, and always after enabling of "
+"it test your site frontend!"
+msgstr ""
+"Táto možnosť umiestni súbory WOOF JavaScript do päty lokality. Použite ho na "
+"optimalizáciu načítania stránky. Dávajte pozor na túto možnosť a vždy po jej "
+"povolení otestujte frontend vašej stránky!"
+
+msgid "This option should be set"
+msgstr "Táto možnosť by mala byť nastavená"
+
+msgid ""
+"This plugin provides an easy to use interface to create and administer custom "
+"post types and taxonomies in WordPress."
+msgstr ""
+"Tento doplnok poskytuje ľahko použiteľné rozhranie na vytváranie a správu "
+"vlastných typov príspevkov a taxonómií vo WordPress."
+
+msgid "This product matches your search %title%."
+msgstr "Tento produkt zodpovedá vášmu vyhľadávaniu %title%."
+
+msgid "This works with ionSlider only"
+msgstr "Toto funguje iba s ionSliderom"
+
+msgid "Title"
+msgstr "nadpis"
+
+msgid "Title of the Query*"
+msgstr "Názov dopytu*"
+
+msgid "Title of the email"
+msgstr "Názov e-mailu"
+
+msgid "Title text"
+msgstr "Text nadpisu"
+
+msgid "To"
+msgstr "na"
+
+msgid ""
+"To update the key, just delete it and save the plugin settings. Key should be "
+"min 16 symbols."
+msgstr ""
+"Ak chcete aktualizovať kľúč, stačí ho odstrániť a uložiť nastavenia pluginu. "
+"Kľúč by mal mať minimálne 16 symbolov."
+
+msgid "Toggle block type"
+msgstr "Prepnúť typ bloku"
+
+msgid ""
+"Toggle text for closed html-items block. Example: open. By default applied "
+"sign plus \"+\""
+msgstr ""
+"Prepnúť text pre uzavretý blok html-items. Príklad: otvorený. V predvolenom "
+"nastavení je použité znamienko plus \"+\""
+
+msgid ""
+"Toggle text for opened html-items block. Example: close. By default applied "
+"sign minus \"-\""
+msgstr ""
+"Prepnúť text pre otvorený blok html-items. Príklad: zavrieť. V predvolenom "
+"nastavení je použité znamienko mínus \"-\""
+
+msgid "Tooltip"
+msgstr "Popis"
+
+msgid "Tooltip icon"
+msgstr "Ikona popisku"
+
+msgid "Tooltip text"
+msgstr "Text popisu"
+
+msgid "Top"
+msgstr "top"
+
+msgid "Top AND Bottom"
+msgstr "Vrchol a úplný spodok"
+
+msgid ""
+"Try new WooCommerce plugin for displaying your shop products in table format"
+msgstr ""
+"Vyskúšajte nový doplnok WooCommerce na zobrazovanie produktov vášho obchodu "
+"vo formáte tabuľky"
+
+msgid "Try to ajaxify the shop"
+msgstr "Skúste obchod ajaxizovať"
+
+msgid "Turbo mode"
+msgstr "Turbo režim"
+
+msgid "Two months"
+msgstr "Dva mesiace"
+
+msgid "Two weeks"
+msgstr "Dva týždne"
+
+msgid ""
+"Type of the toogle on the front for block of html-items as: radio, "
+"checkbox .... Works only if the block title is not hidden!"
+msgstr ""
+"Typ nástroja na prednej strane pre blok html položiek ako: rádio, "
+"zaškrtávacie políčko .... Funguje iba vtedy, ak nie je skrytý názov bloku!"
+
+msgid "Unsubscribe"
+msgstr "odhlásiť"
+
+msgid "Update"
+msgstr "aktualizovať"
+
+msgid "Update now!"
+msgstr "Teraz aktualizovať!"
+
+msgid "Url of the custom image for the button"
+msgstr "Adresa URL vlastného obrázka pre tlačidlo"
+
+msgid ""
+"Use WordPress Cron if your site has a lot of traffic, and external cron if "
+"the site traffic is not big. External cron is more predictable with time of "
+"execution, but additional knowledge how to set it correctly is required"
+msgstr ""
+"Ak má vaša stránka veľkú návštevnosť, použite WordPress Cron a ak návštevnosť "
+"stránky nie je veľká, použite externý cron. Externý cron je predvídateľnejší "
+"s časom vykonania, ale sú potrebné ďalšie znalosti, ako ho správne nastaviť"
+
+msgid "Use beauty scroll"
+msgstr "Použite zvitok krásy"
+
+msgid ""
+"Use beauty scroll when you apply max height for taxonomy block on the front"
+msgstr ""
+"Keď použijete maximálnu výšku bloku taxonómie na prednej strane, použite "
+"posúvanie krásy"
+
+msgid "Use chosen"
+msgstr "Zvolené použitie"
+
+msgid "Use chosen javascript library on the front of your site for drop-downs."
+msgstr ""
+"Pre rozbaľovacie ponuky použite vybranú knižnicu javascript na prednej strane "
+"vašej stránky."
+
+msgid ""
+"Use comma as in example: 1,2,3,4,5. If you want structure like title->value "
+"use next syntax example: France^1,Germany^2,USA^3. Countries are titles here."
+msgstr ""
+"Použite čiarku ako v príklade: 1,2,3,4,5. Ak chcete štruktúru ako názov-"
+">hodnota, použite nasledujúci príklad syntaxe: Francúzsko^1,Nemecko^2,USA^3. "
+"Krajiny sú tu tituly."
+
+msgid "Use for"
+msgstr "Použiť pre"
+
+msgid "Use image as radio button"
+msgstr "Použiť obrázok ako prepínač"
+
+msgid ""
+"Use it if you can not translate your custom taxonomies labels and attributes "
+"labels by another plugins."
+msgstr ""
+"Použite ho, ak nemôžete preložiť štítky vlastných taxonómií a štítkov "
+"atribútov pomocou iných doplnkov."
+
+msgid ""
+"Use it when you are need additional action after AJAX redraw your products in "
+"shop page or in page with shortcode! For use when you need additional "
+"functionality after AJAX redraw of your products on the shop page or on pages "
+"with shortcodes."
+msgstr ""
+"Použite ho, keď potrebujete ďalšiu akciu po tom, čo AJAX prekreslí vaše "
+"produkty na stránke obchodu alebo na stránke so skráteným kódom! Na použitie, "
+"keď potrebujete dodatočnú funkcionalitu po AJAX prekreslení vašich produktov "
+"na stránke obchodu alebo na stránkach s krátkymi kódmi."
+
+msgid ""
+"Use sign # before link to apply strict compliance. Example: #https://"
+"your_site.com/product-category/man/"
+msgstr ""
+"Použite znak # pred odkazom na uplatnenie prísneho súladu. Príklad: #https://"
+"your_site.com/product-category/man/"
+
+msgid "Use tooltip"
+msgstr "Použite popis"
+
+msgid ""
+"Use tooltip library on the front of your site. Possible to disable it here if "
+"any scripts conflicts on the site front."
+msgstr ""
+"Použite knižnicu popisov na prednej strane vašej lokality. Tu je možné "
+"zakázať v prípade konfliktu skriptov na prednej strane stránky."
+
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE - its "
+"getting terms for filter faster without big MySQL queries! If you actively "
+"adds new terms every day or week you can set cron period for cleaning. "
+"Another way set: 'not clean cache automatically'!"
+msgstr ""
+"Užitočná vec, keď ste už svoju stránku nastavili VO VÝROBNOM REŽIME - "
+"rýchlejšie získavanie podmienok pre filtrovanie bez veľkých dopytov MySQL! Ak "
+"aktívne pridávate nové výrazy každý deň alebo týždeň, môžete nastaviť obdobie "
+"cronu na čistenie. Iný spôsob nastavenia: 'nečistiť vyrovnávaciu pamäť "
+"automaticky'!"
+
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE and use "
+"dynamic recount -> it make recount very fast! Of course if you added new "
+"products which have to be in search results you have to clean this cache OR "
+"you can set time period for auto cleaning!"
+msgstr ""
+"Užitočná vec, keď už máte stránku nastavenú VO VÝROBNOM REŽIME a používate "
+"dynamické prepočítavanie -> prepočítavanie je veľmi rýchle! Samozrejme, ak "
+"ste pridali nové produkty, ktoré musia byť vo výsledkoch vyhľadávania, musíte "
+"túto vyrovnávaciu pamäť vyčistiť ALEBO môžete nastaviť časové obdobie na "
+"automatické čistenie!"
+
+msgid "User"
+msgstr "užívateľ"
+
+msgid "User can save the search query"
+msgstr "Používateľ môže uložiť vyhľadávací dopyt"
+
+msgid ""
+"User on the site front will have to press button like \"Show products filter "
+"form\" to load search form by ajax and start filtering. Good feature when "
+"search form is quite big and page loading takes more time because of it!"
+msgstr ""
+"Používateľ na prednej strane stránky bude musieť stlačiť tlačidlo ako "
+"\"Zobraziť formulár filtra produktov\" na načítanie formulára vyhľadávania "
+"podľa ajaxu a spustenie filtrovania. Dobrá funkcia, keď je vyhľadávací "
+"formulár dosť veľký a načítanie stránky trvá dlhšie!"
+
+msgid "Value exists"
+msgstr "Hodnota existuje"
+
+msgid "Video tutorials"
+msgstr "Video tutoriály"
+
+msgid "View"
+msgstr "pohľad"
+
+msgid "View of the search by author"
+msgstr "Pohľad na vyhľadávanie podľa autora"
+
+msgid "View of the taxonomies terms on the front"
+msgstr "Pohľad na pojmy taxonómie na prednej strane"
+
+msgid "View product"
+msgstr "Zobraziť produkt"
+
+msgid ""
+"WARNING: this action will overwrite all current WOOF settings. Insert WOOF "
+"settings data you need to import! Here you can import only WOOF settings and "
+"nothing more! If your site don`t have taxonomies WOOF will not create them "
+"(you should create taxonomies before)."
+msgstr ""
+"UPOZORNENIE: táto akcia prepíše všetky aktuálne nastavenia WOOF. Vložte údaje "
+"nastavení WOOF, ktoré potrebujete importovať! Tu môžete importovať iba "
+"nastavenia WOOF a nič viac! Ak vaša stránka nemá taxonómie, WOOF ich "
+"nevytvorí (predtým by ste mali vytvoriť taxonómie)."
+
+msgid "WOOBE"
+msgstr "WOOBE"
+
+msgid "WOOCS"
+msgstr "WOOCS"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - Filter produktov WooCommerce"
+
+msgid "WOOF - WooCommerce Products Filter v.%s"
+msgstr "WOOF - Filter produktov WooCommerce v.%s"
+
+msgid "WOOF FULL VERSION"
+msgstr "WOOF PLNÁ VERZIA"
+
+msgid ""
+"WOOF cannot create database table for statistic! Make sure that your mysql "
+"user has the CREATE privilege! Do it manually using your host "
+"panel&phpmyadmin!"
+msgstr ""
+"WOOF nemôže vytvoriť databázovú tabuľku pre štatistiku! Uistite sa, že váš "
+"používateľ mysql má privilégium CREATE! Urobte to manuálne pomocou vášho "
+"hostiteľského panela a phpmyadmin!"
+
+msgid ""
+"WOOF cannot create the database table! Make sure that your mysql user has the "
+"CREATE privilege! Do it manually using your host panel&phpmyadmin!"
+msgstr ""
+"WOOF nemôže vytvoriť databázovú tabuľku! Uistite sa, že váš používateľ mysql "
+"má privilégium CREATE! Urobte to manuálne pomocou vášho hostiteľského panela "
+"a phpmyadmin!"
+
+msgid "WOOF documentation"
+msgstr "WOOF dokumentácia"
+
+msgid "WOOF settings saving ..."
+msgstr "Ukladanie nastavení WOOF..."
+
+msgid "WOOT"
+msgstr "Woot"
+
+msgid "WPML taxonomies labels translations"
+msgstr "WPML taxonómie označuje preklady"
+
+msgid "Way to show of slideout popup out: click or hover"
+msgstr ""
+"Spôsob zobrazenia vysúvacieho kontextového okna: kliknite alebo umiestnite "
+"kurzor myši"
+
+msgid "Weekly recommended"
+msgstr "Odporúča sa týždenne"
+
+msgid "Where to keep products data file"
+msgstr "Kde uchovávať súbor s údajmi o produktoch"
+
+msgid "Where to show slideout button: right, left, top"
+msgstr "Kde zobraziť vysúvacie tlačidlo: vpravo, vľavo, hore"
+
+msgid ""
+"Which limitation has priority. Event after which user stop getting the "
+"emails. Both - means that any first event of two ones, will reset user "
+"subscription."
+msgstr ""
+"Ktoré obmedzenie má prednosť. Udalosť, po ktorej používateľ prestane dostávať "
+"e-maily. Oboje - znamená, že každá prvá z dvoch udalostí vynuluje "
+"používateľské predplatné."
+
+msgid "Widget Logic lets you control on which pages widgets appear using"
+msgstr ""
+"Widget Logic vám umožňuje ovládať, na ktorých stránkach sa miniaplikácie "
+"zobrazujú pomocou"
+
+msgid "Width X Height (px) of the button image"
+msgstr "Šírka X Výška (px) obrázka tlačidla"
+
+msgid "Width and height of the popup html container size in (px)"
+msgstr "Šírka a výška veľkosti kontextového html kontajnera v (px)"
+
+msgid ""
+"Will the plugin look in each variable of variable products. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"Bude doplnok hľadať v každej premennej premenných produktov. Požiadavka na "
+"produkty premenných vytvára viac dopytov mysql v databáze ..."
+
+msgid ""
+"WooCommerce Active Products Table - WOOT - (new name is PROTAS) WooCommerce "
+"plugin for displaying shop products in table format. Woo Products Tables "
+"makes focus for your buyers on the things they want to get, nothing "
+"superfluous, just what the client wants, and full attention to what is "
+"offered!"
+msgstr ""
+"WooCommerce Active Products Table - WOOT - (nový názov je PROTAS) WooCommerce "
+"plugin pre zobrazovanie produktov obchodu vo formáte tabuľky. Woo Products "
+"Tables sa zameriavajú na vašich kupujúcich na veci, ktoré chcú získať, nič "
+"zbytočné, len to, čo chce klient, a plnú pozornosť tomu, čo sa ponúka!"
+
+msgid "WooCommerce Bulk Editor"
+msgstr "Hromadný editor WooCommerce"
+
+msgid ""
+"WooCommerce Currency Switcher – is the plugin that allows you to switch to "
+"different currencies and get their rates converted in the real time!"
+msgstr ""
+"WooCommerce Currency Switcher – je doplnok, ktorý vám umožňuje prepínať na "
+"rôzne meny a previesť ich kurzy v reálnom čase!"
+
+msgid "WooCommerce Currency Swither"
+msgstr "WooCommerce Currency Swither"
+
+msgid "WooCommerce Products Filter"
+msgstr "Filter produktov WooCommerce"
+
+msgid "WooCommerce Products Filter by realmag777"
+msgstr "Filtrovanie produktov WooCommerce podľa realmag777"
+
+msgid "WooCommerce Products Tables"
+msgstr "Tabuľky produktov WooCommerce"
+
+msgid ""
+"Word while searching is going on front when \"Overlay skins\" is default."
+msgstr ""
+"Keď je predvolená možnosť \"Prekryvné vzhľady\", je slovo pri vyhľadávaní."
+
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+msgid "WordPress Cron period"
+msgstr "Obdobie WordPress Cron"
+
+msgid "WordPress cron period"
+msgstr "Cron obdobie WordPress"
+
+msgid ""
+"WordPress plugin for managing and bulk edit WooCommerce Products data in "
+"robust and flexible way! Be professionals with managing data of your "
+"woocommerce e-shop!"
+msgstr ""
+"WordPress plugin na správu a hromadnú úpravu údajov produktov WooCommerce "
+"robustným a flexibilným spôsobom! Buďte profesionáli v správe dát vášho "
+"woocommerce e-shopu!"
+
+msgid ""
+"Works for radio and checkboxes only. Allows show radio/checkboxes in 1 row!"
+msgstr ""
+"Funguje iba pre rádio a začiarkavacie políčka. Umožňuje zobraziť rádio / "
+"začiarkavacie políčka v 1 riadku!"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid ""
+"Yes - filtering starts immediately if user changed any item in the search "
+"form. No - user can set search data and then should press Filter button"
+msgstr ""
+"Áno – filtrovanie sa spustí okamžite, ak používateľ zmení akúkoľvek položku "
+"vo formulári vyhľadávania. Nie - používateľ môže nastaviť údaje vyhľadávania "
+"a potom by mal stlačiť tlačidlo Filter"
+
+msgid "Yes(only if the product exists)"
+msgstr "Áno (iba ak produkt existuje)"
+
+msgid "Yes, but only for desktop"
+msgstr "Áno, ale len pre desktop"
+
+msgid "Yes, but only for mobile devices"
+msgstr "Áno, ale len pre mobilné zariadenia"
+
+msgid "Yes, show as closed"
+msgstr "Áno, zobraziť ako zatvorené"
+
+msgid "Yes, show as opened"
+msgstr "Áno, zobraziť ako otvorené"
+
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Odhlásili ste sa z odberu noviniek o budúcich produktoch."
+
+msgid ""
+"You can always assemble products data for Turbo Mode by one click! While its "
+"assembling filtering on the site front is still possible with previous "
+"assembled products data until new data assembled!"
+msgstr ""
+"Údaje o produktoch pre režim Turbo môžete vždy zostaviť jedným kliknutím! "
+"Zatiaľ čo filtrovanie zostavovania na prednej strane stránky je stále možné s "
+"predchádzajúcimi údajmi o zostavených produktoch až do zostavenia nových "
+"údajov!"
+
+msgid ""
+"You can define the conditions for displaying filter elements depending of the "
+"current filtering request. Briefly this feature allows to hide some filter-"
+"elements while others are not selected. Or vice versa - show some filter-"
+"elements if some another filter elements are selected."
+msgstr ""
+"Môžete definovať podmienky pre zobrazenie prvkov filtra v závislosti od "
+"aktuálnej požiadavky na filtrovanie. Stručne povedané, táto funkcia umožňuje "
+"skryť niektoré prvky filtra, zatiaľ čo iné nie sú vybraté. Alebo naopak - "
+"zobrazte niektoré prvky filtra, ak sú vybraté iné prvky filtra."
+
+msgid "You can define whith which role show users in the drop down"
+msgstr ""
+"V rozbaľovacej ponuke môžete definovať, ktorá rola sa používateľom zobrazí"
+
+msgid "You should write extension info in info.dat file!"
+msgstr "Do súboru info.dat by ste mali napísať informácie o prípone!"
+
+msgid "You unsubscribed from the newsletter."
+msgstr "Odhlásili ste sa z odberu noviniek."
+
+msgid "Your settings have been saved."
+msgstr "Vaše nastavenia boli uložené."
+
+msgid "additional options"
+msgstr "ďalšie možnosti"
+
+msgid "all"
+msgstr "všetko"
+
+msgid "as Image"
+msgstr "ako Obrázok"
+
+msgid "as Text"
+msgstr "ako Text"
+
+msgid "average rating between 1 to 2-"
+msgstr "priemerné hodnotenie od 1 do 2"
+
+msgid "average rating between 2 to 3-"
+msgstr "priemerné hodnotenie od 2 do 3"
+
+msgid "average rating between 3 to 4-"
+msgstr "priemerné hodnotenie od 3 do 4"
+
+msgid "average rating between 4 to 5"
+msgstr "priemerné hodnotenie od 4 do 5"
+
+msgid "background image url 25x25"
+msgstr "adresa URL obrázka na pozadí 25 x 25"
+
+msgid "behavior of the text searching"
+msgstr "správanie pri vyhľadávaní textu"
+
+msgid "by SKU"
+msgstr "podľa SKU"
+
+msgid "clean cache automatically daily"
+msgstr "každý deň automaticky čistiť vyrovnávaciu pamäť"
+
+msgid "clean cache automatically each 2 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každé 2 dni"
+
+msgid "clean cache automatically each 3 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každé 3 dni"
+
+msgid "clean cache automatically each 4 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každé 4 dni"
+
+msgid "clean cache automatically each 5 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každých 5 dní"
+
+msgid "clean cache automatically each 6 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každých 6 dní"
+
+msgid "clean cache automatically each 7 days"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každých 7 dní"
+
+msgid "clean cache automatically hourly"
+msgstr "automaticky čistiť vyrovnávaciu pamäť každú hodinu"
+
+msgid "clean cache automatically twicedaily"
+msgstr "automaticky čistiť vyrovnávaciu pamäť dvakrát denne"
+
+msgid "clear"
+msgstr "zrejmý"
+
+msgid "clear cache"
+msgstr "Vymazať vyrovnávaciu pamäť"
+
+msgid "clear terms cache"
+msgstr "vymazať vyrovnávaciu pamäť výrazov"
+
+msgid "daily"
+msgstr "toto"
+
+msgid "date"
+msgstr "dátum"
+
+msgid "default_overlay_skin_word"
+msgstr "default_overlay_skin_word"
+
+msgid "delete"
+msgstr "vymazať"
+
+msgid "do not clean cache automatically"
+msgstr "nevyčistite vyrovnávaciu pamäť automaticky"
+
+msgid "do not use shortcodes here in turbo mode"
+msgstr "tu v turbo režime nepoužívajte krátke kódy"
+
+msgid "drag and drope"
+msgstr "drag and drop"
+
+msgid "drawing graphs ..."
+msgstr "kreslenie grafov..."
+
+msgid "each %s days"
+msgstr "každý deň %s"
+
+msgid "enter a product sku here ..."
+msgstr "tu zadajte sku produktu..."
+
+msgid "enter a product title here ..."
+msgstr "tu zadajte názov produktu ..."
+
+msgid "enter a text here ..."
+msgstr "tu zadajte text..."
+
+msgid "enter product ID"
+msgstr "zadajte ID produktu"
+
+msgid "enter title"
+msgstr "zadajte názov"
+
+msgid "excluded terms ids"
+msgstr "ID vylúčených výrazov"
+
+msgid "filter by price"
+msgstr "filtrovať podľa ceny"
+
+msgid "finished!"
+msgstr "hotovo!"
+
+msgid "from"
+msgstr "S"
+
+msgid "from: %s"
+msgstr "od: %s"
+
+msgid "full version of the plugin"
+msgstr "plná verzia pluginu"
+
+msgid "hide products filter"
+msgstr "skryť filter produktov"
+
+msgid "hourly"
+msgstr "hodinový"
+
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr ""
+"ako zobraziť vyskakovacie okno po načítaní stránky: otvorenie alebo zatvorenie"
+
+msgid "jQuery-ui calendar date format"
+msgstr "Formát dátumu kalendára jQuery-ui"
+
+msgid "leave it empty to show all terms"
+msgstr "ak chcete zobraziť všetky výrazy, nechajte pole prázdne"
+
+msgid "leave it empty to use native taxonomy name"
+msgstr "ak chcete použiť natívny názov taxonómie, nechajte ho prázdne"
+
+msgid "max price"
+msgstr "max cena"
+
+msgid "menu order"
+msgstr "poradie menu"
+
+msgid "min price"
+msgstr "min cena"
+
+msgid "min1"
+msgstr "min1"
+
+msgid "monthly"
+msgstr "mesačne"
+
+msgid "move"
+msgstr "pohyb"
+
+msgid "new"
+msgstr "nový"
+
+msgid "new window"
+msgstr "nové okno"
+
+msgid "number"
+msgstr "číslo"
+
+msgid "orderby"
+msgstr "zoradiť podľa"
+
+msgid "per page"
+msgstr "na stránke"
+
+msgid "popularity"
+msgstr "popularita"
+
+msgid "popup animation speed in (ms)"
+msgstr "rýchlosť vyskakovacej animácie v (ms)"
+
+msgid "predifined step"
+msgstr "vopred určený krok"
+
+msgid "price high to low"
+msgstr "cena vysoká až nízka"
+
+msgid "price low to high"
+msgstr "cena nízka až vysoká"
+
+msgid "price range"
+msgstr "cenové rozpätie"
+
+msgid "px"
+msgstr "px"
+
+msgid "rating"
+msgstr "hodnotenie"
+
+msgid "remove extension"
+msgstr "odstrániť rozšírenie"
+
+msgid "select image"
+msgstr "vyberte obrázok"
+
+msgid "set link to the image"
+msgstr "nastaviť odkaz na obrázok"
+
+msgid "show blocks helper"
+msgstr "zobraziť pomocné bloky"
+
+msgid "show products filter"
+msgstr "zobraziť filter produktov"
+
+msgid "string"
+msgstr "reťazec"
+
+msgid "support"
+msgstr "podpora"
+
+msgid "the same window"
+msgstr "rovnaké okno"
+
+msgid "to"
+msgstr "na"
+
+msgid "to: %s"
+msgstr "na: %s"
+
+msgid "toggle"
+msgstr "prepínač"
+
+msgid "toggle color terms"
+msgstr "prepínať farebné výrazy"
+
+msgid "toggle image terms"
+msgstr "prepínať obrazové výrazy"
+
+msgid "twicedaily"
+msgstr "dva krát denne"
+
+msgid "twicemonthly"
+msgstr "dvakrát mesačne"
+
+msgid "unsubscribe"
+msgstr "odhlásiť"
+
+msgid "weekly"
+msgstr "týždenne"
+
+msgid "without update"
+msgstr "bez aktualizácie"
+
+msgid "xxx"
+msgstr "xxx"
+
+msgid "Сlear"
+msgstr "Сlear"
+
+msgid "Сonditionals"
+msgstr "Сpodmienky"
+
+msgid "Сontainer size"
+msgstr "Veľkosť kontajnera"
+
+msgid "Сount is max"
+msgstr "Množstvo je max"
+
+msgid ""
+"Try new plugin for managing and bulk edit WooCommerce Products data in robust "
+"and flexible way"
+msgstr ""
+"Vyskúšajte nový doplnok na správu a hromadnú úpravu údajov produktov "
+"WooCommerce robustným a flexibilným spôsobom"
+
+msgid "Go Pro!"
+msgstr "Choďte Pro!"
+
+msgid "In FREE version it is possible to operate with 1 condition (first) only!"
+msgstr "Vo verzii FREE je možné prevádzkovať iba s 1 podmienkou (prvou)!"
+
+msgid "Possible keys"
+msgstr "Možné kľúče"

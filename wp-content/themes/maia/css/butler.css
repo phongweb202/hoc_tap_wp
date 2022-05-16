@@ -1,0 +1,58 @@
+/* greek-ext */
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 200;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_ultra_light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 300;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 500;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 700;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 800;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_extrabold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Butler';
+    font-weight: 900;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(../fonts/butler/butler_black.woff2) format('woff2');
+}
+

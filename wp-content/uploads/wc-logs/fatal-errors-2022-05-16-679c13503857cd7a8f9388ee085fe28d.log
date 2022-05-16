@@ -1,0 +1,10 @@
+2022-05-16T01:29:39+00:00 CRITICAL Uncaught Error: Call to a member function is_built_with_elementor() on bool in D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-content\themes\maia\inc\functions-frontend.php:730
+Stack trace:
+#0 D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-content\themes\maia\inc\functions-frontend.php(1031): maia_get_html_custom_post(1178)
+#1 D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-includes\class-wp-hook.php(307): maia_load_html_dropdowns_action('')
+#2 D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-admin\admin-ajax.php(187): do_action('wp_ajax_maia_lo...')
+#5 {main}
+  thrown in D:\WE16303_PHP\htdocs\hoc_tap_wp\wp-content\themes\maia\inc\functions-frontend.php on line 730
+
